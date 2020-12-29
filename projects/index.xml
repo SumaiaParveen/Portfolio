@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sumaia Parveen Shupti</title>
+    <link>https://sumaiaparveen.github.io/portfolio/projects/</link>
+    <description>Recent content in Projects on Sumaia Parveen Shupti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://sumaiaparveen.github.io/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python DataViz: Vancouver, BC Crime Datasets by VPD</title>
+      <link>https://sumaiaparveen.github.io/portfolio/projects/project-7/</link>
+      <pubDate>Sun, 15 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://sumaiaparveen.github.io/portfolio/projects/project-7/</guid>
+      <description>Go to Github Repo
+As I moved to British Columbia recently and I am looking for an apartment at the moment, I want to find the overall crime and safety situation throughout the city. Vancouver Police Department made the crime data public over 2003-2020. I was able to find little details like historically which time of the year or month a theft or burglary or some other kind of crime occur the most.</description>
+    </item>
+    
+    <item>
+      <title>Web App: Natural Language Processing with spaCy</title>
+      <link>https://sumaiaparveen.github.io/portfolio/projects/project-3/</link>
+      <pubDate>Sun, 18 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://sumaiaparveen.github.io/portfolio/projects/project-3/</guid>
+      <description>Go to App
+  Tokenization
+ spaCy segments the text into sentences, words, and punctuation marks. These are called tokens. Texts are tokenized using spaCy model &amp;lsquo;en_core_web_sm&amp;rsquo; and visualized in a table as words and punctuations, their Lemmatization, Parts of Speech, and type of the entity.  Word Count
+ Preprocessed the text (removal of stop-words, punctuations, accented characters, etc.) Computed the word frequency table by computing the number of times each word is present in the document.</description>
+    </item>
+    
+    <item>
+      <title>ML Project: Binary-Classification of Health Conditions</title>
+      <link>https://sumaiaparveen.github.io/portfolio/projects/project-1/</link>
+      <pubDate>Fri, 25 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sumaiaparveen.github.io/portfolio/projects/project-1/</guid>
+      <description>Created Binary Classifiers for five different health conditions using several Machine Learning algorithms. Among these five, datasets for various test results and various age groups are available for Cervical Cancer and Dementia, respectively; thus built separate classifiers for different cases.
+  Employed several feature-selection methods and selected important features to reduce dimension. Handled imbalances of the dataset and took care of outliers and important observations.
+  Employed Lazypredict and several other Machine Learning models.</description>
+    </item>
+    
+    <item>
+      <title>Python DataViz: Vancouver, BC Climate Datasets by Environment and Climate Change Canada</title>
+      <link>https://sumaiaparveen.github.io/portfolio/projects/project-8/</link>
+      <pubDate>Sat, 22 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://sumaiaparveen.github.io/portfolio/projects/project-8/</guid>
+      <description>Go to Github Repo
+Environment and Climate Change Canada provides data on climate and other environmental features of different regions of Canada. We will have a look at how the temperature, relative humidity, and health index change over the years in Vancouver, British Columbia.
+Below is an image showing the low temperatures and high temperatures throuout the years 2014-2020. The dots show the record low and high points.
+  Please check out the .</description>
+    </item>
+    
+    <item>
+      <title>Web App: Prediction of Air Quality Index of Los Angeles</title>
+      <link>https://sumaiaparveen.github.io/portfolio/projects/project-2/</link>
+      <pubDate>Tue, 09 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://sumaiaparveen.github.io/portfolio/projects/project-2/</guid>
+      <description>Go to App
+    Created an API based on a Machine Learning Algorithm that estimates the concentration of Air Quality Index PM 2.5 of Los Angeles, California. This could be useful for someone who is moving to Los Angeles and wants to find out about its air quality.
+  Scraped climate data from 2010 to 2020 from three climate data websites using Python and Beautiful Soup. See data sources here- dataset 1, dataset 2, dataset 3.</description>
+    </item>
+    
+    <item>
+      <title>Web App: Prediction of our Lifespan using ExtraTrees Regressor </title>
+      <link>https://sumaiaparveen.github.io/portfolio/projects/project-4/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://sumaiaparveen.github.io/portfolio/projects/project-4/</guid>
+      <description>Go to App
+    Employed LazyPredict to compare the R-Squared and Errors of diiferent models. Optimized ExtraTrees Regressor using RandomizedsearchCV to reach the best model; the base model gave the minimal error.
+ &#39;bootstrap&#39;: False, &#39;max_features&#39;: &#39;auto&#39;, &#39;min_samples_leaf&#39;: 1, &#39;min_samples_split&#39;: 2, &#39;n_estimators&#39;: 100, &#39;random_state&#39;: 25,    Model Evaulation Metrics are listed below&amp;ndash;
+ Mean absolute error: 1.0727 Mean squared error: 3.2753 Root mean squared error: 1.</description>
+    </item>
+    
+    <item>
+      <title>Python DataViz: Violence Against Women and Girls (VAWG) dataset from  Demographic and Health Surveys</title>
+      <link>https://sumaiaparveen.github.io/portfolio/projects/project-6/</link>
+      <pubDate>Mon, 03 Feb 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://sumaiaparveen.github.io/portfolio/projects/project-6/</guid>
+      <description>Go to Github Repo
+Demographic and Health Surveys (DHS) provides data for a wide range of monitoring and impact evaluation indicators in the areas of population, health, and nutrition. I have tried to create a visualization showing the demographic group of male partners who thinks it is justified to hit their female partners for one of the following reasons&amp;ndash;
+ A husband is justified in hitting/assaulting physically or beating his wife if she burns the food if she argues with him if she goes out without telling him if she neglects the children if she refuses to have sex with him A husband is justified in hitting or beating his wife for at least one specific reason mentioned above  Below is a high-level overview of domestic violence against women in Bangladesh.</description>
+    </item>
+    
+    <item>
+      <title>ML Project: k-means Clustering of Dhaka Districts</title>
+      <link>https://sumaiaparveen.github.io/portfolio/projects/project-5/</link>
+      <pubDate>Sat, 16 Nov 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://sumaiaparveen.github.io/portfolio/projects/project-5/</guid>
+      <description>Go to Github Repo
+  Scraped data using BeautifulSoup from source_1 and source_2.
+  Used Geopy library to convert address into coordinates
+  Utilized Foursquare API to download the names and coordinates of venues like restaurants, parks, rivers etc in several parts of Dhaka division. Combined all the data points and made then usable in Pandas.
+  One-Hot encoded the venues in Dhaka Division and employed k-means clustering to segment Dhaka division into different zones</description>
+    </item>
+    
+    <item>
+      <title>Python DataViz: Immigration to Canada Datasets by UN, Department of Economic and Social Affairs</title>
+      <link>https://sumaiaparveen.github.io/portfolio/projects/project-9/</link>
+      <pubDate>Fri, 15 Nov 2019 11:00:59 -0400</pubDate>
+      
+      <guid>https://sumaiaparveen.github.io/portfolio/projects/project-9/</guid>
+      <description>Go to Github Repo
+The UN provides datasets that contain annual data on the inflows of international migrants to Canada. We will explore the dataset and look at the rate at which people have migrated in the past.
+Below is an image showing the numbers in a bubble plot of the top three countries contributed the most in the migration process over 2000- 2013.
+  The following one shows a Waffle Plot of the migration numbers over 2010-2013 of the five countries mentioned in the legend.</description>
+    </item>
+    
+  </channel>
+</rss>
